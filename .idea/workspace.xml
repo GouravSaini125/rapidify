@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c9009388-cf69-4124-981d-3f7072a5a7e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages/Tables.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pages/Tables.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/three" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -80,7 +80,8 @@
       <workItem from="1588516178699" duration="1022000" />
       <workItem from="1588518151668" duration="524000" />
       <workItem from="1588518845821" duration="4143000" />
-      <workItem from="1588562437634" duration="21000" />
+      <workItem from="1588562437634" duration="643000" />
+      <workItem from="1588700439298" duration="22000" />
     </task>
     <servers />
   </component>
@@ -92,6 +93,10 @@
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
     <state x="658" y="330" key="#com.intellij.fileTypes.FileTypeChooser/75.0.1845.1080@75.0.1845.1080" timestamp="1587823192331" />
+    <state x="784" y="287" key="FileChooserDialogImpl" timestamp="1588700459794">
+      <screen x="75" y="0" width="1845" height="1080" />
+    </state>
+    <state x="784" y="287" key="FileChooserDialogImpl/75.0.1845.1080@75.0.1845.1080" timestamp="1588700459794" />
     <state x="483" y="164" key="SettingsEditor" timestamp="1587822137204">
       <screen x="75" y="0" width="1845" height="1080" />
     </state>
